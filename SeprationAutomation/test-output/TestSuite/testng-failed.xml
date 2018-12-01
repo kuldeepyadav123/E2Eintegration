@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [TestSuite]" parallel="tests">
+  <listeners>
+    <listener class-name="sepration.utility.ExtentReportNG"/>
+  </listeners>
+  <test thread-count="2" name="FirefoxTest(failed)" parallel="tests">
+    <parameter name="browsername" value="Firefox"/>
+    <classes>
+      <class name="sepration.testcases.SeprationPage">
+        <methods>
+          <include name="applyforseparation"/>
+          <include name="tearDown"/>
+          <include name="initialisation"/>
+        </methods>
+      </class> <!-- sepration.testcases.SeprationPage -->
+    </classes>
+  </test> <!-- FirefoxTest(failed) -->
+  <test thread-count="2" name="ChromeTest(failed)" parallel="tests">
+    <parameter name="browsername" value="Chrome"/>
+    <classes>
+      <class name="sepration.testcases.SeprationPage">
+        <methods>
+          <include name="applyforseparation"/>
+          <include name="tearDown"/>
+          <include name="initialisation"/>
+        </methods>
+      </class> <!-- sepration.testcases.SeprationPage -->
+      <class name="sepration.testcases.logintest">
+        <methods>
+          <include name="login"/>
+          <include name="tearDown"/>
+          <include name="initialisation"/>
+        </methods>
+      </class> <!-- sepration.testcases.logintest -->
+    </classes>
+  </test> <!-- ChromeTest(failed) -->
+</suite> <!-- Failed suite [TestSuite] -->
