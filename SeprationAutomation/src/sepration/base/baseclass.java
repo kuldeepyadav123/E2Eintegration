@@ -26,9 +26,6 @@ public class baseclass
 	
 	public static WebDriver driver;
 	
-	
-
-	
 	public static  void initialisation() throws IOException
 	{
 		if (helperclass.fetchpropertyvalue("browsername").toString().equalsIgnoreCase("chrome"))

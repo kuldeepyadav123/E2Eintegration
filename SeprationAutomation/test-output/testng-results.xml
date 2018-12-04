@@ -2,37 +2,37 @@
 <testng-results skipped="0" failed="1" ignored="0" total="2" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="41976" started-at="2018-12-01T04:46:54Z" finished-at="2018-12-01T04:47:36Z">
+  <suite name="Suite" duration-ms="40881" started-at="2018-12-04T09:21:08Z" finished-at="2018-12-04T09:21:49Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="41976" started-at="2018-12-01T04:46:54Z" finished-at="2018-12-01T04:47:36Z">
+    <test name="Test" duration-ms="40881" started-at="2018-12-04T09:21:08Z" finished-at="2018-12-04T09:21:49Z">
       <class name="sepration.testcases.SeprationPage">
-        <test-method status="FAIL" signature="applyforseparation()[pri:0, instance:sepration.testcases.SeprationPage@29b5cd00]" name="applyforseparation" duration-ms="19441" started-at="2018-12-01T04:47:17Z" finished-at="2018-12-01T04:47:36Z">
+        <test-method status="FAIL" signature="applyforseparation()[pri:0, instance:sepration.testcases.SeprationPage@29b5cd00]" name="applyforseparation" duration-ms="24125" started-at="2018-12-04T09:21:25Z" finished-at="2018-12-04T09:21:49Z">
           <exception class="org.openqa.selenium.NoSuchElementException">
             <message>
               <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='SeparationAddForm']/div[6]/div[4]/div/div/div[1]/div"}
   (Session info: chrome=70.0.3538.110)
   (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 26 milliseconds
+Command duration or timeout: 34 milliseconds
 For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
 Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
-System info: host: 'LENOVOL420-13', ip: '192.168.6.50', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_141'
+System info: host: 'LENOVOL420-13', ip: '192.168.6.64', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_141'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:49371}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5), userDataDir=C:\Users\LENOVO~1\AppData\Local\Temp\scoped_dir7860_16571}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=70.0.3538.110, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
-Session ID: 40c1b900d433d57a166a192de8e56cdf
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:55195}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5), userDataDir=C:\Users\LENOVO~1\AppData\Local\Temp\scoped_dir1324_11817}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=70.0.3538.110, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b49d1c8af0152b3096478b0f6f3cd24a
 *** Element info: {Using=xpath, value=//*[@id='SeparationAddForm']/div[6]/div[4]/div/div/div[1]/div}]]>
             </message>
             <full-stacktrace>
               <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='SeparationAddForm']/div[6]/div[4]/div/div/div[1]/div"}
   (Session info: chrome=70.0.3538.110)
   (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 26 milliseconds
+Command duration or timeout: 34 milliseconds
 For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
 Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
-System info: host: 'LENOVOL420-13', ip: '192.168.6.50', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_141'
+System info: host: 'LENOVOL420-13', ip: '192.168.6.64', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_141'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:49371}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5), userDataDir=C:\Users\LENOVO~1\AppData\Local\Temp\scoped_dir7860_16571}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=70.0.3538.110, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
-Session ID: 40c1b900d433d57a166a192de8e56cdf
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:55195}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5), userDataDir=C:\Users\LENOVO~1\AppData\Local\Temp\scoped_dir1324_11817}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=70.0.3538.110, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b49d1c8af0152b3096478b0f6f3cd24a
 *** Element info: {Using=xpath, value=//*[@id='SeparationAddForm']/div[6]/div[4]/div/div/div[1]/div}
 at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
@@ -80,7 +80,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
         </test-method> <!-- applyforseparation -->
       </class> <!-- sepration.testcases.SeprationPage -->
       <class name="sepration.testcases.logintest">
-        <test-method status="PASS" signature="login()[pri:0, instance:sepration.testcases.logintest@7ce6a65d]" name="login" duration-ms="22497" started-at="2018-12-01T04:46:54Z" finished-at="2018-12-01T04:47:17Z">
+        <test-method status="PASS" signature="login()[pri:0, instance:sepration.testcases.logintest@7ce6a65d]" name="login" duration-ms="16716" started-at="2018-12-04T09:21:08Z" finished-at="2018-12-04T09:21:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
