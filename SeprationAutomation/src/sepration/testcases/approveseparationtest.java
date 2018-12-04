@@ -27,7 +27,7 @@ public class approveseparationtest extends baseclass
 	@Test
 	public void approveseparation() throws IOException
 	{
-		baseclass.initialisation();
+	
 		
 		
 		
