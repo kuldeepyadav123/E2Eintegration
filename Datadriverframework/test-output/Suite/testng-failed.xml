@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="org.automation.testingworld.testcases.TC001validateloginpage"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name="Test(failed)">
+    <classes>
+      <class name="org.automation.testingworld.testcases.TC001validateloginpage">
+        <methods>
+          <include name="closedriverinstance"/>
+          <include name="tc001_login_loginfunctionality" invocation-numbers="0 1 2 3 4"/>
+          <include name="initiatedriverinstance"/>
+        </methods>
+      </class> <!-- org.automation.testingworld.testcases.TC001validateloginpage -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
