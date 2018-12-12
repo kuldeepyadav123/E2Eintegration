@@ -38,7 +38,7 @@ public class Separationapproval2 extends loginpage
      @ Override
 	 public void login() throws IOException
 	 {
-    	 login.click();
+    	 
     	 
 	}
      

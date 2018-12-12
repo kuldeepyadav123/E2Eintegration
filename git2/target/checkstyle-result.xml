@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="C:\Users\LenovoL420-13u\workspace\git2\src\main\java\browser\BrowserGetter.java">
+</file>
+<file name="C:\Users\LenovoL420-13u\workspace\git2\src\main\java\pageobjects\seOO\GoogleSearchPage.java">
+</file>
+<file name="C:\Users\LenovoL420-13u\workspace\git2\src\main\java\pageobjects\seOO\listsAndFindBy\ComplexSelectorsPage.java">
+</file>
+<file name="C:\Users\LenovoL420-13u\workspace\git2\src\main\java\pageobjects\seOO\listsAndFindBy\ListsAndFindByPage.java">
+</file>
+<file name="C:\Users\LenovoL420-13u\workspace\git2\src\main\java\pageobjects\seOO\ntd17\ContentPage.java">
+</file>
+<file name="C:\Users\LenovoL420-13u\workspace\git2\src\main\java\pageobjects\stpcon17\ModulesPage.java">
+</file>
+<file name="C:\Users\LenovoL420-13u\workspace\git2\src\main\java\pageobjects\waiter\WaiterPage.java">
+</file>
+<file name="C:\Users\LenovoL420-13u\workspace\git2\src\test\java\apachecommonstests\DateFormatUtilsTest.java">
+</file>
+<file name="C:\Users\LenovoL420-13u\workspace\git2\src\test\java\apachecommonstests\DateUtilsTest.java">
+</file>
+<file name="C:\Users\LenovoL420-13u\workspace\git2\src\test\java\apachecommonstests\FileUtilsTest.java">
+</file>
+<file name="C:\Users\LenovoL420-13u\workspace\git2\src\test\java\apachecommonstests\RandomStringUtilsTest.java">
+</file>
+<file name="C:\Users\LenovoL420-13u\workspace\git2\src\test\java\apachecommonstests\StringUtilsTest.java">
+</file>
+<file name="C:\Users\LenovoL420-13u\workspace\git2\src\test\java\brokenImage\BrokenImageTest.java">
+</file>
+<file name="C:\Users\LenovoL420-13u\workspace\git2\src\test\java\listsAndFindBy\ListsAndFindByTest.java">
+</file>
+<file name="C:\Users\LenovoL420-13u\workspace\git2\src\test\java\listsAndFindBy\ListsForComplexSelectorsTest.java">
+</file>
+<file name="C:\Users\LenovoL420-13u\workspace\git2\src\test\java\methods\WithMethodsTest.java">
+</file>
+<file name="C:\Users\LenovoL420-13u\workspace\git2\src\test\java\methods\WithoutMethodsTest.java">
+</file>
+<file name="C:\Users\LenovoL420-13u\workspace\git2\src\test\java\ntd17\FeaturedContentTest.java">
+</file>
+<file name="C:\Users\LenovoL420-13u\workspace\git2\src\test\java\ntd17\objects\Article.java">
+</file>
+<file name="C:\Users\LenovoL420-13u\workspace\git2\src\test\java\ntd17\objects\ClickableImage.java">
+</file>
+<file name="C:\Users\LenovoL420-13u\workspace\git2\src\test\java\ntd17\objects\FeaturedContentSection.java">
+</file>
+<file name="C:\Users\LenovoL420-13u\workspace\git2\src\test\java\ntd17\objects\Link.java">
+</file>
+<file name="C:\Users\LenovoL420-13u\workspace\git2\src\test\java\ntd17\objects\TagSection.java">
+</file>
+<file name="C:\Users\LenovoL420-13u\workspace\git2\src\test\java\replaceall\ReplaceAllTest.java">
+</file>
+<file name="C:\Users\LenovoL420-13u\workspace\git2\src\test\java\seOO\example1\SearchResult.java">
+</file>
+<file name="C:\Users\LenovoL420-13u\workspace\git2\src\test\java\seOO\example1\SearchResultTest.java">
+</file>
+<file name="C:\Users\LenovoL420-13u\workspace\git2\src\test\java\stpcon17\Image.java">
+</file>
+<file name="C:\Users\LenovoL420-13u\workspace\git2\src\test\java\stpcon17\Link.java">
+</file>
+<file name="C:\Users\LenovoL420-13u\workspace\git2\src\test\java\stpcon17\Module.java">
+</file>
+<file name="C:\Users\LenovoL420-13u\workspace\git2\src\test\java\stpcon17\ModulesTest.java">
+</file>
+<file name="C:\Users\LenovoL420-13u\workspace\git2\src\test\java\testconlt17\Image.java">
+</file>
+<file name="C:\Users\LenovoL420-13u\workspace\git2\src\test\java\testconlt17\Module.java">
+</file>
+<file name="C:\Users\LenovoL420-13u\workspace\git2\src\test\java\testconlt17\ModulesTest.java">
+</file>
+<file name="C:\Users\LenovoL420-13u\workspace\git2\src\test\java\translations\TranslationsTest.java">
+</file>
+<file name="C:\Users\LenovoL420-13u\workspace\git2\src\test\java\waitertests\ClickTest.java">
+</file>
+<file name="C:\Users\LenovoL420-13u\workspace\git2\src\test\java\waitertests\GetTest.java">
+</file>
+<file name="C:\Users\LenovoL420-13u\workspace\git2\src\test\java\waitertests\UrlTest.java">
+</file>
+<file name="C:\Users\LenovoL420-13u\workspace\git2\src\test\java\waitertests\WaiterTest.java">
+</file>
+<file name="C:\Users\LenovoL420-13u\workspace\git2\src\test\java\waitertests\WaitForElementDisplayedTest.java">
+</file>
+<file name="C:\Users\LenovoL420-13u\workspace\git2\src\test\java\waitertests\WaitForElementTextTest.java">
+</file>
+<file name="C:\Users\LenovoL420-13u\workspace\git2\src\main\resources\languages\de.properties">
+</file>
+<file name="C:\Users\LenovoL420-13u\workspace\git2\src\main\resources\languages\en.properties">
+</file>
+<file name="C:\Users\LenovoL420-13u\workspace\git2\src\main\resources\languages\es.properties">
+</file>
+<file name="C:\Users\LenovoL420-13u\workspace\git2\src\main\resources\languages\no.properties">
+</file>
+</checkstyle>

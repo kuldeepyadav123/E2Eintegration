@@ -1,0 +1,7 @@
+browser\BrowserGetter.class
+pageobjects\seOO\listsAndFindBy\ComplexSelectorsPage.class
+pageobjects\stpcon17\ModulesPage.class
+pageobjects\seOO\listsAndFindBy\ListsAndFindByPage.class
+pageobjects\seOO\GoogleSearchPage.class
+pageobjects\waiter\WaiterPage.class
+pageobjects\seOO\ntd17\ContentPage.class
