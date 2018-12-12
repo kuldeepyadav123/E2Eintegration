@@ -5,6 +5,7 @@ public class main {
 	{
 		gmaillogin obj=new gmaillogin();
 		obj.gmailloginlogout();
+		System.out.println("login");
 	}
 
 }
