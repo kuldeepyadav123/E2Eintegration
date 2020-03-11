@@ -36,7 +36,7 @@ public class postrequestusingexistingjsonfle
      .post(" http://localhost:3000/friends");
     
     
-    System.out.println("status code is" + res.statusCode());
+    System.out.println("status code is"   + res.statusCode());
     System.out.println("data is");
     System.out.println(res.asString());
     
